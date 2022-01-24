@@ -16,6 +16,5 @@ For example:
 ## Criteria
 
 * Use a language of your choice. 
-* 
 * Include Tests as appropriate. 
 * Fork this repo and start coding. :)
