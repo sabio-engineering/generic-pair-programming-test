@@ -7,11 +7,11 @@ Write a function called convertToWords() which takes as its input an integer and
 
 For example:
 
-Input N = 4 returns four. 
-Input N = 27 returns twenty seven. 
-Input N = 438 returns four hundred and thirty eight. 
-Input N = 1000 returns one thousand.
-Input N = 52710 returns fifty two thousand seven hundred and ten
+* Input N = 4 returns four. 
+* Input N = 27 returns twenty seven. 
+* Input N = 438 returns four hundred and thirty eight. 
+* Input N = 1000 returns one thousand.
+* Input N = 52710 returns fifty two thousand seven hundred and ten
 
 ## Criteria
 
